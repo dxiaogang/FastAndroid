@@ -1,2 +1,2 @@
 # FastAndroid
-this is a my first project from i register github account
+his is my first project since register the github account.
